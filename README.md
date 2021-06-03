@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shula6h-101
-- 👀 I’m interested in Full Stack Developer Python Developer(Machine Learning)
+- 👀 I’m interested in Full Stack Developer and Python Developer(Machine Learning)
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shula6h@gmail.com
